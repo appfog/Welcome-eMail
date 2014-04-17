@@ -5,7 +5,7 @@ Please follow the steps below to get started:
 ```
 *verification URL goes here*
 ```
-##### (Or enter the verification token directly on your [Profile page](https://console.appfog.com/#profile))
+##### Also, you can paste the token on your [account verification page](https://console.appfog.com/profile/verify).
 ```
 *verification token goes here*
 ```
