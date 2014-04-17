@@ -12,11 +12,11 @@ Please follow the steps below to get started:
 * * *
 After your account is verified, please read our [Support docs](https://docs.appfog.com) to learn how to start using AppFog. If you don't want to read any documentation, at least read the rest of this email :-)
 
-+You will need to install [Ruby](https://www.ruby-lang.org/en/installation) to get the Command Line Interface (CLI) tool installed. Use the CLI to upload your source code (via our RESTful API)...
+You will need to install [Ruby](https://www.ruby-lang.org/en/installation) to get the Command Line Interface (CLI) tool installed. Use the CLI to upload your source code (via our RESTful API)...
 
  ```
 $ sudo gem install af
-@@ -21,23 +20,33 @@ $ af login
+$ af login
 $ cd <app directory>
 $ af push
 ```
