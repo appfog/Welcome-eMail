@@ -34,7 +34,7 @@ $ af tunnel <service name>
 ```
 * * *
 ### Support
-Our [Support Desk](http://support.appfog.com) is staffed Mon-Fri, 8am-6pm CST (GMT-6). You should [Submit a ticket](http://support.appfog.com) using the email address associated with your account so we can quickly prioritize your ticket based on your Plan level. Our current system status and uptime report is at [status.appfog.com](http://status.appfog.com). 
+Our [Support Desk](http://support.appfog.com) is staffed Mon-Fri, 8am-6pm CST (GMT-5). You should [Submit a ticket](http://support.appfog.com) using the email address associated with your account so we can quickly prioritize your ticket based on your Plan level. Our current system status and uptime report is at [status.appfog.com](http://status.appfog.com). 
 
 We also recommend you subscribe to our [Twitter @appfogstatus](https://twitter.com/@appfogstatus) handle for system status notifications. 
 
